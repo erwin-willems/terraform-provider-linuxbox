@@ -1,0 +1,14 @@
+# Go build output:
+.bin
+
+# Terraform:
+.terraform
+terraform.d
+terraform-provider-linuxbox
+terraform.tfstate.*
+terraform.tfstate
+.terraform.lock.hcl
+
+# test_containers:
+.built.*
+.run.*
